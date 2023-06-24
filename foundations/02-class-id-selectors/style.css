@@ -1,19 +1,18 @@
-p {
+.odd {
     background-color: #e85dc5;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
-#second {
-    color: #2f00ff;
-    font-size: 36px; ;
+.adjusted-font {
+    font-size: 24px;
 }
 
-p.third {
-    font-size: 36px; 
+#second {
+    color: #2f00ff;
+    font-size: 36px;
 }
 
 #fourth {
     background: #00ff15;
-    font-size: 24px;
     font-weight: bold;
 }
